@@ -1,0 +1,7 @@
+Category,Precision,Recall,F1_Score,Support
+World,0.93,0.89,0.91,1900
+Sports,0.96,0.98,0.97,1900
+Business,0.86,0.89,0.87,1900
+Sci/Tech,0.89,0.88,0.88,1900
+Macro Avg,0.91,0.91,0.91,7600
+Weighted Avg,0.91,0.91,0.91,7600

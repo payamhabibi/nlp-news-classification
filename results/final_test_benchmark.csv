@@ -1,0 +1,4 @@
+Model,Paradigm,Test_Accuracy,Weighted_Precision,Weighted_Recall,Weighted_F1
+Baseline (Uniform Dummy),Rule-based,0.2513,0.25,0.2513,0.2512
+Linear SVM (TF-IDF),Classical ML,0.9071,0.907,0.9071,0.9067
+DistilBERT (Fine-Tuned),Deep Learning / Transformer,0.9103,0.9107,0.9103,0.9102
