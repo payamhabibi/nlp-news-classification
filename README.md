@@ -19,7 +19,7 @@ An end-to-end Natural Language Processing (NLP) pipeline benchmarking Classical 
 ## How to Run
 
 ```bash
-git clone [https://github.com/](https://github.com/)<your-username>/nlp-news-classification.git
+git clone [https://github.com/](https://github.com/)<payamhabibi>/nlp-news-classification.git
 cd nlp-news-classification
 pip install -r requirements.txt
 ```
